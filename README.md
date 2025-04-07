@@ -27,5 +27,5 @@ This project showcases image processing and computer vision techniques to detect
 
 ---
 
-## 📂 Folder Structure
+
 
